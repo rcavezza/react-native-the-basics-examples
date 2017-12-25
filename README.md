@@ -1,6 +1,9 @@
 # react-native-the-basics-examples
 This is a collection of quick scripts from tutorials found at http://facebook.github.io/react-native/docs/getting-started.html
 
+Every script is written in App.js. If you take a look at the commit history, most commits are different examples that you can use as you follow along with the code from the docs.
+
+# Create React Native App Basics
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
